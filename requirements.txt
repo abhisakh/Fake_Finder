@@ -1,0 +1,12 @@
+# Core game dependencies
+wikipedia==1.4.0
+python-dotenv==1.0.1
+
+# Google Gemini (Generative AI)
+google-genai==0.3.0
+
+# System utilities (for compatibility and clean output)
+requests==2.32.3
+
+# Optional: For development & debugging
+colorama==0.4.6
